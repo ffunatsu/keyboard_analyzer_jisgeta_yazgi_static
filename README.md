@@ -1,8 +1,8 @@
 GitHub Pages
-https://ffunatsu.github.io/keyboard_analyzer_jisgeta_static/
+https://ffunatsu.github.io/keyboard_analyzer_jisgeta_yazgi_static/
 
 ソース
-https://github.com/ffunatsu/keyboard_analyzer_jisgeta
+https://github.com/ffunatsu/keyboard_analyzer_jisgeta_yazgi
 
 ## このリポジトリでやっている修正メモ
 
